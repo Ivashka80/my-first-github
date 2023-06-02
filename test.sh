@@ -2,3 +2,4 @@
 #add
 #copy
 #move
+#delete
